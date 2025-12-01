@@ -1,0 +1,14 @@
+{
+	"name": "My Hyprland Rice DEV",
+	"id": "com.ml4w.myhyprlandrice.dev",
+	"description": "",
+	"version":"0.1",
+	"author": "Stephan Raabe",
+	"homepage": "",
+	"dependencies": "",
+	"source": "Projects/myhyprland-rice",
+	"subfolder": "dotfiles",
+	"setupscript":"setup.sh",
+	"restore":[],
+	"settings":[]
+}
